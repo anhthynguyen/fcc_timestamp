@@ -1,0 +1,12 @@
+{
+  "name": "fcc_timestamp",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice project from freeCodeCamp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Thy Nguyen",
+  "license": "ISC"
+}
