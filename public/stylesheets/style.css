@@ -1,0 +1,32 @@
+.container-fluid {
+  width: 700px;
+  max-width: 100%;
+}
+
+h1 {
+  color: red
+}
+
+.vertical-rule {
+    border-left: thick solid red;
+}
+
+h5 {
+  padding-left: 10px;
+}
+
+.input-group {
+    margin-top: 3%;
+}
+
+.response {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  color: red;
+}
+
+footer{
+    height: auto;
+    padding: 1%;
+    margin-top: 5%;
+}
